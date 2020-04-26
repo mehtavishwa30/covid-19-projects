@@ -1,2 +1,108 @@
 # Covid-19 Projects
 
+How we respond to challenging times is what makes us the most human. Several of us are taking this time to give back to the community by putting in efforts to build solutions to help others in these times. In the past few months, the community has contributed to myriads of initiatives related to COVID-19. 
+
+We want to show our love by amplifying the work of some of the creators who are contributing to this collective effort.
+
+## Name
+
+Description
+
+How it can be used, where and by whom
+
+Tech stack
+
+URL
+Github open source or not
+
+## Fieldfusion
+
+The Fieldfusion team have built a tool to aid decision-making during the COVID-19 pandemic in the UK. Whilst aimed primarily at Field Service professionals, it is also freely available for use by the general public.
+
+The tool utilises publicly available data from Public Health England (PHE), the Office for National Statistics (ONS), and Ordnance Survey (OS) to show how severely coronavirus is affecting different geographic regions in the UK. By comparing the number of confirmed cases to the total population in specific areas we are able to show which regions have been affected most severely.
+
+Users are able to enter a list or upload a CSV file of UK Post Codes for places where essential work or travel must be undertaken. This helps Field Service organisations make swift, data-driven decisions, improve technician safety, and respond at scale.
+
+Please note: data is accurate for England at the present time due to the differences between available geographic data and the regions for which the devolved governments in Wales, Scotland and Northern Ireland report the number of cases.
+
+The tool is freely available to use on the web. Due to GDPR considerations we made the decision to anonymise usage data but have received good feedback on social media on it's use by Field Service organisations, as well as other companies looking to collaborate and expand on the project.
+
+Since going live on 20th March we have recorded nearly 4,000 unique page visitors and seen good organic and sponsored traction on social media.
+
+Our LinkedIn video post received nearly 3,000 organic views, including significant numbers by employees at Softcat PLC — one of the UK's largest software infrastructure providers, British Gas, Oracle, PwC and McLaren Group.
+
+Our boosted Facebook video post received ~150,000 ThruPlays between March 22nd and April 5th.
+
+### Website 🔗 
+
+https://corona.fieldfusion.io/
+
+### Tech Stack 🥞
+
+Hasura backend with Vue.js front-end using websockets, deployed with Netlify on their free tier.
+
+Re: opensource — we're working on cleaning up the code and documenting it to enable sharing and replication for other geographies.
+
+### Team Fieldfusion 💪
+
+Graham Sawell — Fieldfusion's Founder and Head of Development
+Graham is a fantastic full-stack developer. His career background is in enterprise-level Field Service software consultancy and implementation, working primarily on Oracle Field Service Cloud (OFSC) and SAP integrations, as well as training developers for OFSC implementation. Graham founded Fieldfusion's parent-company, RED Smart Applications Ltd, in 2018 to bring enterprise-level Field Service software and customisability to the SME space.
+
+The idea for this project came about before the lockdown measures came into place into the UK. Graham identified the impact the growing COVID-19 pandemic would have on businesses and organisations that rely on their Field Service capability and so wanted to develop a tool to help the industry. From his initial idea he was able to build out the project and get the initial version live within 24 hours.
+
+Graham's LinkedIn profile — https://www.linkedin.com/in/grahamsawell/
+
+John Hunter — Development Lead
+
+John's background is in UI/UX design but his role has evolved into full-stack development. His experience and ability to evolve and refine an idea proved essential during this project as he was able to step-in and enable Graham to focus on other projects.
+
+John's LinkedIn profile — https://www.linkedin.com/in/john-hunter-1a4b65160/
+
+The rest of the team have stepped-up brilliantly and provided essential testing and bug-reporting duties, as well as contributing to UX decisions.
+
+Lewis Garner — Product Manager — https://www.linkedin.com/in/lewis-garner-687586143/
+Sam Packham — Customer Success Manager — https://www.linkedin.com/in/samuel-packham-883104195/
+Chantelle Sawell (Graham's wife) — Operations Manager — https://www.linkedin.com/in/chantelle-sawell-435272183/
+
+## Survive Together
+
+Due to the prevailing curfew in many countries, people living in certain areas are finding it difficult to get groceries, vegetables, fruits, and other essential items. Through this website, vendors can inform people about their services and people can state their needs as well.
+
+At the moment, for some of us, the only way to obtain food and groceries is through deliveries. No one can go out of their house for weeks. While there are many delivery options in some areas, we noticed that most of the areas won't get anything. Those people are helpless. One of the main targets of this website is to gather enough information to identify those key areas and make sure everyone gets what they need.
+
+### Website 🔗 
+
+https://survivetogether.org/
+
+### Tech Stack 🥞
+
+React, Hasura, TypeScript
+
+### Team Survive Together 💪
+
+We are a small startup based on Sri Lanka. A 4 member team which decided that we have to do what ever we can to help people. You can find the names and the Github profile of the team in here: https://github.com/LeafyCode/survive-together-web#authors
+
+## Urgent Hub
+
+Urgent Hub - COVID-19 screening for connecting patients and providers
+
+US - Arkansas, Colorado
+
+As of end of April Urgent Hubs support 2.5 million people between dental and eye care in states of Arkansas and Colorado.
+
+It took us 6 years to build the framework that enabled us to build Urgent Hub in 6 days.
+
+Dario Cravero (Product Engineer) @dariocravero, Rob Callaham, Josh Matthews, Jake Gulick (Product Owners)
+
+### Website 🔗 
+
+https://urgent-hub.com/
+
+### Tech Stack 🥞
+
+Views, React, Circle CI, Hasura, Postgres, Node, Lambdas, AWS Fargate, Docker, Amplitude
+
+
+Let's celebrate the works of these creators and spread the word so that these solutions reach the people who need them and can inspire others who would want to build such solutions! 
+
+If you are building one such project to extend help in any form to fight COVID-19, please let us know by tweeting to us at @Hasura or reaching us at *enter email id*.
