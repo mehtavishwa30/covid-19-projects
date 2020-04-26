@@ -27,16 +27,16 @@ Hasura backend with Vue.js front-end using websockets, deployed with Netlify on 
 
 ### Team Fieldfusion 💪
 
-[Graham Sawell](https://www.linkedin.com/in/grahamsawell/) — Founder and Head of Development at Fieldfusion
+* **[Graham Sawell](https://www.linkedin.com/in/grahamsawell/)** — *Founder and Head of Development at Fieldfusion*
 
-[John Hunter](https://www.linkedin.com/in/john-hunter-1a4b65160/) — Development Lead
+* **[John Hunter](https://www.linkedin.com/in/john-hunter-1a4b65160/)** — *Development Lead*
 
-[Lewis Garner](https://www.linkedin.com/in/lewis-garner-687586143/) — Product Manager
+* **[Lewis Garner](https://www.linkedin.com/in/lewis-garner-687586143/)** — *Product Manager*
 
-[Sam Packham](https://www.linkedin.com/in/samuel-packham-883104195/) — Customer Success Manager
+* **[Sam Packham](https://www.linkedin.com/in/samuel-packham-883104195/)** — *Customer Success Manager*
  
-[Chantelle Sawell](https://www.linkedin.com/in/chantelle-sawell-435272183/
-) — Operations Manager
+* **[Chantelle Sawell](https://www.linkedin.com/in/chantelle-sawell-435272183/
+)** — *Operations Manager*
 
 ## 3. Survive Together
 
@@ -56,10 +56,10 @@ https://survivetogether.org/
 
 survivetogether.org is brought to us by a 4 member team working at LeafyCode, a startup based in Sri Lanka.
 
-* **Nipun Ravisara** - *Design and UI development* - [Ravisara](https://github.com/RavisaraDev)
-* **Kalana Elapatha** - *Translations* - [kalanaelapatha](https://github.com/kalanaelapatha)
+* **[Nipun Ravisara](https://github.com/RavisaraDev)** - *Design and UI development*
+* **[Kalana Elapatha]((https://github.com/kalanaelapatha))** - *Translations*
 * **Navoda Thathsarani** - *Translations and content*
-* **Pubudu Kodikara** - *Development* - [THpubs](https://github.com/thpubs/)
+* **[Pubudu Kodikara]((https://github.com/thpubs/))** - *Development*
 
 ## 3. Urgent Hub
 
@@ -71,7 +71,6 @@ As of end of April Urgent Hubs support 2.5 million people between dental and eye
 
 It took us 6 years to build the framework that enabled us to build Urgent Hub in 6 days.
 
-Dario Cravero (Product Engineer) @dariocravero, Rob Callaham, Josh Matthews, Jake Gulick (Product Owners)
 
 ### Website 🔗 
 
@@ -80,6 +79,13 @@ https://urgent-hub.com/
 ### Tech Stack 🥞
 
 🏗 Built using Views, React, Circle CI, Hasura, Postgres, Node, Lambdas, AWS Fargate, Docker, Amplitude.
+
+### Team Urgent Hub 💪
+
+* **Dario Cravero (@dariocravero)** - *Product Engineer*
+* **Rob Callaham** - *Product Owner*
+* **Josh Matthews** - *Product Owner*
+* **Jake Gulick** - *Product Owner*
 
 ___________________________________________________________________________________________________________
 
