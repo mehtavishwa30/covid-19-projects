@@ -4,17 +4,6 @@ How we respond to challenging times is what makes us the most human. Several of 
 
 We want to show our love by amplifying the work of some of the creators who are contributing to this collective effort. Here are a few of many such projects that exemplify how the community is responding to COVID-19 by building web & software solutions. 
 
-## Name
-
-Description
-
-How it can be used, where and by whom
-
-Tech stack
-
-URL
-Github open source or not
-
 ## Fieldfusion
 
 Fieldfusion is free online tool built to aid decision-making during the COVID-19 pandemic. Whilst aimed primarily at Field Service professionals, it is also freely available for use by the general public.
@@ -27,11 +16,6 @@ Please note: data is accurate for England at the present time due to the differe
 
 The tool is freely available to use on the web. Due to GDPR considerations we made the decision to anonymise usage data but have received good feedback on social media on it's use by Field Service organisations, as well as other companies looking to collaborate and expand on the project.
 
-Since going live on 20th March we have recorded nearly 4,000 unique page visitors and seen good organic and sponsored traction on social media.
-
-Our LinkedIn video post received nearly 3,000 organic views, including significant numbers by employees at Softcat PLC — one of the UK's largest software infrastructure providers, British Gas, Oracle, PwC and McLaren Group.
-
-Our boosted Facebook video post received ~150,000 ThruPlays between March 22nd and April 5th.
 
 ### Website 🔗 
 
@@ -40,8 +24,6 @@ https://corona.fieldfusion.io/
 ### Tech Stack 🥞
 
 Hasura backend with Vue.js front-end using websockets, deployed with Netlify on their free tier.
-
-Re: opensource — we're working on cleaning up the code and documenting it to enable sharing and replication for other geographies.
 
 ### Team Fieldfusion 💪
 
@@ -100,8 +82,9 @@ https://urgent-hub.com/
 
 ### Tech Stack 🥞
 
-Views, React, Circle CI, Hasura, Postgres, Node, Lambdas, AWS Fargate, Docker, Amplitude
+🏗 Built using Views, React, Circle CI, Hasura, Postgres, Node, Lambdas, AWS Fargate, Docker, Amplitude.
 
+___________________________________________________________________________________________________________
 
 Let's celebrate the works of these creators and spread the word so that these solutions reach the people who need them and can inspire others who would want to build such solutions! 
 
