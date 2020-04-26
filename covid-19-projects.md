@@ -2,7 +2,7 @@
 
 How we respond to challenging times is what makes us the most human. Several of us are taking this time to give back to the community by putting in efforts to build solutions to help others in these times. In the past few months, the community has contributed to myriads of initiatives related to COVID-19. 
 
-We want to show our love by amplifying the work of some of the creators who are contributing to this collective effort.
+We want to show our love by amplifying the work of some of the creators who are contributing to this collective effort. Here are a few of many such projects that exemplify how the community is responding to COVID-19 by building web & software solutions. 
 
 ## Name
 
@@ -17,7 +17,7 @@ Github open source or not
 
 ## Fieldfusion
 
-The Fieldfusion team have built a tool to aid decision-making during the COVID-19 pandemic in the UK. Whilst aimed primarily at Field Service professionals, it is also freely available for use by the general public.
+Fieldfusion is free online tool built to aid decision-making during the COVID-19 pandemic. Whilst aimed primarily at Field Service professionals, it is also freely available for use by the general public.
 
 The tool utilises publicly available data from Public Health England (PHE), the Office for National Statistics (ONS), and Ordnance Survey (OS) to show how severely coronavirus is affecting different geographic regions in the UK. By comparing the number of confirmed cases to the total population in specific areas we are able to show which regions have been affected most severely.
 
