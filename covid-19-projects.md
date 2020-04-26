@@ -27,24 +27,16 @@ Hasura backend with Vue.js front-end using websockets, deployed with Netlify on 
 
 ### Team Fieldfusion 💪
 
-Graham Sawell — Fieldfusion's Founder and Head of Development
-Graham is a fantastic full-stack developer. His career background is in enterprise-level Field Service software consultancy and implementation, working primarily on Oracle Field Service Cloud (OFSC) and SAP integrations, as well as training developers for OFSC implementation. Graham founded Fieldfusion's parent-company, RED Smart Applications Ltd, in 2018 to bring enterprise-level Field Service software and customisability to the SME space.
+[Graham Sawell](https://www.linkedin.com/in/grahamsawell/) — Founder and Head of Development at Fieldfusion
 
-The idea for this project came about before the lockdown measures came into place into the UK. Graham identified the impact the growing COVID-19 pandemic would have on businesses and organisations that rely on their Field Service capability and so wanted to develop a tool to help the industry. From his initial idea he was able to build out the project and get the initial version live within 24 hours.
+[John Hunter](https://www.linkedin.com/in/john-hunter-1a4b65160/) — Development Lead
 
-Graham's LinkedIn profile — https://www.linkedin.com/in/grahamsawell/
+[Lewis Garner](https://www.linkedin.com/in/lewis-garner-687586143/) — Product Manager
 
-John Hunter — Development Lead
-
-John's background is in UI/UX design but his role has evolved into full-stack development. His experience and ability to evolve and refine an idea proved essential during this project as he was able to step-in and enable Graham to focus on other projects.
-
-John's LinkedIn profile — https://www.linkedin.com/in/john-hunter-1a4b65160/
-
-The rest of the team have stepped-up brilliantly and provided essential testing and bug-reporting duties, as well as contributing to UX decisions.
-
-Lewis Garner — Product Manager — https://www.linkedin.com/in/lewis-garner-687586143/
-Sam Packham — Customer Success Manager — https://www.linkedin.com/in/samuel-packham-883104195/
-Chantelle Sawell (Graham's wife) — Operations Manager — https://www.linkedin.com/in/chantelle-sawell-435272183/
+[Sam Packham](https://www.linkedin.com/in/samuel-packham-883104195/) — Customer Success Manager
+ 
+[Chantelle Sawell](https://www.linkedin.com/in/chantelle-sawell-435272183/
+) — Operations Manager
 
 ## Survive Together
 
