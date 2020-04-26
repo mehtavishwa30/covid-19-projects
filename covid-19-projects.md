@@ -38,6 +38,9 @@ Due to the prevailing curfew in many countries, people living in certain areas a
 
 At the moment, for some of us, the only way to obtain food and groceries is through deliveries. No one can go out of their house for weeks. While there are many delivery options in some areas, we noticed that most of the areas won't get anything. Those people are helpless. One of the main targets of this website is to gather enough information to identify those key areas and make sure everyone gets what they need.
 
+**Note**: survivetogether.org is currently only for use in Sri Lanka.
+
+
 ### Tech Stack 🥞
 
 🏗 Built using React, Hasura, & TypeScript.
@@ -52,16 +55,16 @@ survivetogether.org is brought to us by a 4 member team working at LeafyCode, a 
 * **Navoda Thathsarani** - *Translations and content*
 * **[Pubudu Kodikara](https://github.com/thpubs/)** - *Development*
 
+### Open Source 🗃
+
+The code has been made open-source by the team for developers to use and draw inspiration from. If you are looking to build something similar to help people in this global pandemic, check out their [GitHub repository](https://github.com/LeafyCode/survive-together-web).
+
 
 ## 3. [Urgent Hub](https://urgent-hub.com/) 🔗
 
-Urgent Hub - COVID-19 screening for connecting patients and providers
+Urgent Hub is a web app built to aid safe COVID-19 screening by connecting patients and medical care providers. As of end of April Urgent Hubs support 2.5 million people between dental and eye care in states of Arkansas and Colorado. Urgent Hub was built in the short span of 6 days.
 
-Urgent Hub is currently available in Arkansas, Colorado (USA).
-
-As of end of April Urgent Hubs support 2.5 million people between dental and eye care in states of Arkansas and Colorado.
-
-It took us 6 years to build the framework that enabled us to build Urgent Hub in 6 days.
+**Note**: Urgent Hub is currently available in Arkansas, Colorado (USA).
 
 
 ### Tech Stack 🥞
