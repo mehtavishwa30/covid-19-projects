@@ -4,7 +4,7 @@ How we respond to challenging times is what makes us the most human. Several of 
 
 We want to show our love by amplifying the work of some of the creators who are contributing to this collective effort. Here are a few of many such projects that exemplify how the community is responding to COVID-19 by building web & software solutions. 
 
-## Fieldfusion
+## 1. Fieldfusion
 
 Fieldfusion is free online tool built to aid decision-making during the COVID-19 pandemic. Whilst aimed primarily at Field Service professionals, it is also freely available for use by the general public.
 
@@ -38,7 +38,7 @@ Hasura backend with Vue.js front-end using websockets, deployed with Netlify on 
 [Chantelle Sawell](https://www.linkedin.com/in/chantelle-sawell-435272183/
 ) — Operations Manager
 
-## Survive Together
+## 3. Survive Together
 
 Due to the prevailing curfew in many countries, people living in certain areas are finding it difficult to get groceries, vegetables, fruits, and other essential items. Through this website, vendors can inform people about their services and people can state their needs as well.
 
@@ -50,13 +50,18 @@ https://survivetogether.org/
 
 ### Tech Stack 🥞
 
-React, Hasura, TypeScript
+🏗 Built using React, Hasura, & TypeScript.
 
 ### Team Survive Together 💪
 
-We are a small startup based on Sri Lanka. A 4 member team which decided that we have to do what ever we can to help people. You can find the names and the Github profile of the team in here: https://github.com/LeafyCode/survive-together-web#authors
+survivetogether.org is brought to us by a 4 member team working at LeafyCode, a startup based in Sri Lanka.
 
-## Urgent Hub
+* **Nipun Ravisara** - *Design and UI development* - [Ravisara](https://github.com/RavisaraDev)
+* **Kalana Elapatha** - *Translations* - [kalanaelapatha](https://github.com/kalanaelapatha)
+* **Navoda Thathsarani** - *Translations and content*
+* **Pubudu Kodikara** - *Development* - [THpubs](https://github.com/thpubs/)
+
+## 3. Urgent Hub
 
 Urgent Hub - COVID-19 screening for connecting patients and providers
 
