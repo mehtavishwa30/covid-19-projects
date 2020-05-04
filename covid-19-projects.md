@@ -128,6 +128,6 @@ Helpmate was built in 12 days and one of he backend developers had a very intere
 
 ___________________________________________________________________________________________________________
 
-Let's celebrate the works of these creators and spread the word so that these solutions reach the people who need them and can inspire others who would want to build such solutions! 
+Let's celebrate the works of these creators and spread the word so that these solutions reach the people who need them and can inspire others who would want to build such solutions using Hasura! 
 
-If you are building one such project to extend help in any form to fight COVID-19, please let us know by tweeting to us at @[Hasura](https://twitter.com/HasuraHQ) or reaching us at *enter email id*.
+If you are building projects with Hasura to extend help to the community, please let us know by tweeting to us at @[Hasura](https://twitter.com/HasuraHQ) or reaching us at `community@hasura.io`.
