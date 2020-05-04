@@ -79,6 +79,59 @@ Urgent Hub is a web app built to aid safe COVID-19 screening by connecting patie
 * **Josh Matthews** - *Product Owner*
 * **Jake Gulick** - *Product Owner*
 
+## 4. [Helpmate](https://play.google.com/store/apps/details?id=storesOpenIn.com) 🔗
+
+Helpmate: we built a community benefiting app that helps you list local shops & enables you to volunteer for others during this lockdown. Using Helpmate, you can discover all the stores, kiranas, mandi’s and thelas around you that are open and selling essentials. When you go out shopping, you can add stores and help people around you. You also have an option to volunteer and shop essentials for the elderly people and others around you who are unable to step out.
+
+Helpmate is a crowdsourced app that lists open stores as well as volunteers around you. It also provides an option for a user to add a store or become a volunteer to help the community. Elderly people & others, who can’t step out can call these volunteers & seek support.
+
+During these tough times, it’s our resilience and compassion which will shine through. Let’s build a better community. Let’s do our bit 🙂
+
+**Note**:
+
+### Tech Stack 🥞
+
+🏗 Built using Hasura, Firebase, Kotlin (Android app)
+
+### Team Helpmate 💪
+
+Helpmate is built by a small team of developer buddies who share the same empathy & zeal to bring us solutions through code in times of distress.
+
+* **[Shankar](https://twitter.com/i_shankar)** - *Backend Developer*
+* **[Bala](https://twitter.com/BalakrishnanPT)** - *Backend Developer*
+* **[Naveen](https://twitter.com/NorthJaw)** - *Android Developer*
+
+## Reduce Time-to-Market with Hasura
+
+The above projects have served as useful case studies to learn how Hasura & its features help devlopers bring their ideas to life and build them faster.
+
+### Fieldfusion 
+
+Fieldfusion founder Graham Sawell took the project from conception to live in <24 hours. Further development work from the rest of the Fieldfusion team took the current build time to ~3 days.
+
+The <24 hour development has proved a useful case study for Hasura enabling Fieldfusion to build and deploy effectively and at speed.
+
+One of the great features of Hasura is the attention and thought that has gone into permission and role structures. Normally when faced with this kind of challenge the temptation is spin up yet another under-utilised VPS, go through the deployment steps, secure it, attach a domain, and create another 'thing' out there that goes untouched until you get a dependency security alert 6 months later. It's often hard as a developer to identify when you are truly separating concerns or dividing them. Hasura is the toolkit that we as developers need to allow us to focus what we do best, without worrying that technicalities are being obfuscated.
+
+Making use of the public role that hasura exposes, we were able to rapidly create extra tables to support the data, create the gql queries and simply make the data available to the front-end through websockets without concern. The built-in aggregations work perfectly to display the statistical summary data that we needed in this instance.
+
+We ended up opting to build a node.js microservice to poll and refresh the data because actions were still in beta, but all of our testing with Hasura actions has been great, my hope down the line we will be able to migrate.
+
+### Survivetogether
+
+1 week
+We are using Hasura as the API for our system. Due to the time restrictions, we did not build any admin panel. Actually we don't have to since the Hasura console provided everything we need to handle to project for the time being.
+
+### UrgentHub
+
+1 week
+We depend heavily on Hasura. CRUD automation GraphQL gets us up and running really fast. Events and actions help us model all of our backend logic in a clear and declarative way. The permissions model help us restrict access to the different parts of the system in a simple way too.
+
+### Helpmate
+
+12 days
+The out of the box support for geography type solved most of the problems as it is a location aware app. I really wanted to use Actions, but the curernt set of features didn't warrant. I've said this multiple times: you folks are awesome!
+
 ___________________________________________________________________________________________________________
 
 Let's celebrate the works of these creators and spread the word so that these solutions reach the people who need them and can inspire others who would want to build such solutions! 
