@@ -34,9 +34,7 @@ Fieldfusion enables users to upload/enter and search for a specific postal code 
 
 ## 2. [Survive Together](https://survivetogether.org/) 🔗
 
-Due to the prevailing curfew in many countries, people living in certain areas are finding it difficult to get groceries, vegetables, fruits, and other essential items. Through this website, vendors can inform people about their services and people can state their needs as well.
-
-At the moment, for some of us, the only way to obtain food and groceries is through deliveries. No one can go out of their house for weeks. While there are many delivery options in some areas, we noticed that most of the areas won't get anything. Those people are helpless. One of the main targets of this website is to gather enough information to identify those key areas and make sure everyone gets what they need.
+As a result of the lockdowns in certain countries, the citizens heavily rely on home deliveries for essential items. The Surive Together website helps ou discover open stores, services, & areas in which these servies are available. You can add your requirements under a particular store listed by a vendor & the service will appropriately be provided to you. 
 
 **Note**: survivetogether.org is currently only for use in Sri Lanka.
 
@@ -81,13 +79,10 @@ Urgent Hub is a web app built to aid safe COVID-19 screening by connecting patie
 
 ## 4. [Helpmate](https://play.google.com/store/apps/details?id=storesOpenIn.com) 🔗
 
-Helpmate: we built a community benefiting app that helps you list local shops & enables you to volunteer for others during this lockdown. Using Helpmate, you can discover all the stores, kiranas, mandi’s and thelas around you that are open and selling essentials. When you go out shopping, you can add stores and help people around you. You also have an option to volunteer and shop essentials for the elderly people and others around you who are unable to step out.
 
-Helpmate is a crowdsourced app that lists open stores as well as volunteers around you. It also provides an option for a user to add a store or become a volunteer to help the community. Elderly people & others, who can’t step out can call these volunteers & seek support.
+Helpmate is a crowdsourced app that helps you list local stores that sell essentials as open including hawkers & small shops. The next time you go out shopping, help people find the store you shopped from by adding it on Helpmate. With Helpmate you can also become a volunter to help your neighbourhood. Elderly people & others, who can’t step out can call volunteers & seek support. Helpmate is doing its bit. Let's do ours with Helpmate. 💜
 
-During these tough times, it’s our resilience and compassion which will shine through. Let’s build a better community. Let’s do our bit 🙂
-
-**Note**:
+**Note**: Helpmate is a hyper-local app for use in only a small region of India.
 
 ### Tech Stack 🥞
 
@@ -101,36 +96,37 @@ Helpmate is built by a small team of developer buddies who share the same empath
 * **[Bala](https://twitter.com/BalakrishnanPT)** - *Backend Developer*
 * **[Naveen](https://twitter.com/NorthJaw)** - *Android Developer*
 
-## Reduce Time-to-Market with Hasura
+## Reduce Time-to-Market with Hasura 🚀
 
-The above projects have served as useful case studies to learn how Hasura & its features help devlopers bring their ideas to life and build them faster.
+The above projects have served as useful case studies to learn how Hasura & its features help devlopers bring their ideas to life and build them faster. Let's see what our users had to say about their experience building with Hasura! 
 
 ### Fieldfusion 
 
 Fieldfusion founder Graham Sawell took the project from conception to live in <24 hours. Further development work from the rest of the Fieldfusion team took the current build time to ~3 days.
 
-The <24 hour development has proved a useful case study for Hasura enabling Fieldfusion to build and deploy effectively and at speed.
+"One of the great features of Hasura is the attention and thought that has gone into permission and role structures. It's often hard as a developer to identify when you are truly separating concerns or dividing them. Hasura is the toolkit that we as developers need to allow us to focus what we do best, without worrying about technicalities being obfuscated."
 
-One of the great features of Hasura is the attention and thought that has gone into permission and role structures. Normally when faced with this kind of challenge the temptation is spin up yet another under-utilised VPS, go through the deployment steps, secure it, attach a domain, and create another 'thing' out there that goes untouched until you get a dependency security alert 6 months later. It's often hard as a developer to identify when you are truly separating concerns or dividing them. Hasura is the toolkit that we as developers need to allow us to focus what we do best, without worrying that technicalities are being obfuscated.
-
-Making use of the public role that hasura exposes, we were able to rapidly create extra tables to support the data, create the gql queries and simply make the data available to the front-end through websockets without concern. The built-in aggregations work perfectly to display the statistical summary data that we needed in this instance.
-
-We ended up opting to build a node.js microservice to poll and refresh the data because actions were still in beta, but all of our testing with Hasura actions has been great, my hope down the line we will be able to migrate.
+"Making use of the public role that hasura exposes, we were able to rapidly create extra tables to support the data, create the gql queries and simply make the data available to the front-end through websockets without concern. The built-in aggregations work perfectly to display the statistical summary data that we needed in this instance. We ended up opting to build a node.js microservice to poll and refresh the data because actions were still in beta, but all of our testing with Hasura actions has been great, my hope down the line we will be able to migrate."
 
 ### Survivetogether
 
-1 week
-We are using Hasura as the API for our system. Due to the time restrictions, we did not build any admin panel. Actually we don't have to since the Hasura console provided everything we need to handle to project for the time being.
+The developers at Leafycode were able to build & deploy the survivetogether.org website in the short span of a week.
+
+"We are using Hasura as the API for our system. Due to the time restrictions, we did not build any admin panel. Actually, we don't have to since the Hasura console provided everything we need to handle to project for the time being."
 
 ### UrgentHub
 
-1 week
-We depend heavily on Hasura. CRUD automation GraphQL gets us up and running really fast. Events and actions help us model all of our backend logic in a clear and declarative way. The permissions model help us restrict access to the different parts of the system in a simple way too.
+In a similar timeframe, UrgentHub was brought to life with the help of Hasura.
+
+"We depend heavily on Hasura. CRUD automation GraphQL gets us up and running really fast. Events and actions helped us model all of our backend logic in a clear and declarative way. The permissions model helped us restrict access to the different parts of the system in a simple way too."
 
 ### Helpmate
 
-12 days
-The out of the box support for geography type solved most of the problems as it is a location aware app. I really wanted to use Actions, but the curernt set of features didn't warrant. I've said this multiple times: you folks are awesome!
+"The out of the box support for geography type solved most of the problems as it is a location aware app. I've said this multiple times: you folks are awesome!".
+
+Helpmate was built in 12 days and one of he backend developers had a very interesting bit to share about how he built the entire backend in no time.
+
+"One of my friends approached me with this idea, couple of weeks ago. He's a designer and doesn't have much understanding of backend architechtures, so he asked me to build it. The amazing thing here is,  I was able to build the whole backend before he could finish the wireframes. All thanks to you folks!"
 
 ___________________________________________________________________________________________________________
 
