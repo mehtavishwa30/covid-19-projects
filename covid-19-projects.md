@@ -21,13 +21,10 @@ Fieldfusion enables users to upload/enter and search for a specific postal code 
 ### Team Fieldfusion 💪
 
 * **[Graham Sawell](https://www.linkedin.com/in/grahamsawell/)** — *Founder and Head of Development at Fieldfusion*
-
+* **[Dave Westbrook](https://www.linkedin.com/in/david-westbrook-60742b3b/)** — *Founder and Head of Development at Fieldfusion*
 * **[John Hunter](https://www.linkedin.com/in/john-hunter-1a4b65160/)** — *Development Lead*
-
 * **[Lewis Garner](https://www.linkedin.com/in/lewis-garner-687586143/)** — *Product Manager*
-
 * **[Sam Packham](https://www.linkedin.com/in/samuel-packham-883104195/)** — *Customer Success Manager*
- 
 * **[Chantelle Sawell](https://www.linkedin.com/in/chantelle-sawell-435272183/
 )** — *Operations Manager*
 
@@ -73,6 +70,7 @@ Urgent Hub is a web app built to aid safe COVID-19 screening by connecting patie
 ### Team Urgent Hub 💪
 
 * **Dario Cravero (@dariocravero)** - *Product Engineer*
+* **Tom Parandyk (@tombreakshit)** - *Product Designer*
 * **Rob Callaham** - *Product Owner*
 * **Josh Matthews** - *Product Owner*
 * **Jake Gulick** - *Product Owner*
@@ -104,9 +102,9 @@ The above projects have served as useful case studies to learn how Hasura & its 
 
 Fieldfusion founder Graham Sawell took the project from conception to live in <24 hours. Further development work from the rest of the Fieldfusion team took the current build time to ~3 days.
 
-"One of the great features of Hasura is the attention and thought that has gone into permission and role structures. It's often hard as a developer to identify when you are truly separating concerns or dividing them. Hasura is the toolkit that we as developers need to allow us to focus what we do best, without worrying about technicalities being obfuscated."
+"One of the great features of Hasura is the attention and thought that has gone into permission and role structures. Making use of the public role that hasura exposes, we were able to rapidly create extra tables to support the data, create the gql queries and simply make the data available to the front-end through websockets without concern.
 
-"Making use of the public role that hasura exposes, we were able to rapidly create extra tables to support the data, create the gql queries and simply make the data available to the front-end through websockets without concern. The built-in aggregations work perfectly to display the statistical summary data that we needed in this instance. We ended up opting to build a node.js microservice to poll and refresh the data because actions were still in beta, but all of our testing with Hasura actions has been great, my hope down the line we will be able to migrate."
+It's often hard as a developer to identify when you are truly separating concerns or dividing them. Hasura is the toolkit that we as developers need to allow us to focus what we do best, without worrying about technicalities being obfuscated."
 
 ### Survivetogether
 
