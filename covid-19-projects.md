@@ -1,8 +1,8 @@
 # Covid-19 Projects
 
-How we respond to challenging times is what makes us the most human. Several of us are taking this time to give back to the community by putting in efforts to build solutions to help others in these times. In the past few months, the community has contributed to myriads of initiatives related to COVID-19. 
+How we respond to challenging times is what makes us the most human. Several of us are taking this time to give back to the community by putting in efforts to build solutions to help others in these times. In the past few months, the Hasura community has contributed to myriads of initiatives related to COVID-19. 
 
-We want to show our love by amplifying the work of some of the creators who are contributing to this collective effort. Here are a few of many such projects that exemplify how the community is responding to COVID-19 by building web & software solutions. 
+We want to show our love by amplifying the work of some of the creators who are contributing to this collective effort. Here are a few of many such projects built using Hasura that exemplify how the community is responding to COVID-19 by building web & software solutions. 
 
 ## 1. [Fieldfusion](https://corona.fieldfusion.io/) 🔗
 
