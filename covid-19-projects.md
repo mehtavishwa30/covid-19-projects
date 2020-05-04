@@ -4,7 +4,7 @@ How we respond to challenging times is what makes us the most human. Several of 
 
 We want to show our love by amplifying the work of some of the creators who are contributing to this collective effort. Here are a few of many such projects built using Hasura that exemplify how the community is responding to COVID-19 by building web & software solutions. 
 
-## 2. [Urgent Hub](https://urgent-hub.com/) 🔗
+## 1. [Urgent Hub](https://urgent-hub.com/) 🔗
 
 Urgent Hub is a web app built to aid safe COVID-19 screening by connecting patients and medical care providers. As of end of April Urgent Hubs support 2.5 million people between dental and eye care in states of Arkansas and Colorado. Urgent Hub was built in the short span of 6 days.
 
