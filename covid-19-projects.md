@@ -1,4 +1,4 @@
-# Covid-19 Projects
+# Hasura Community Against Covid-19 
 
 How we respond to challenging times is what makes us the most human. Several of us are taking this time to give back to the community by putting in efforts to build solutions to help others in these times. In the past few months, the Hasura community has contributed to myriads of initiatives related to COVID-19. 
 
@@ -8,9 +8,9 @@ We want to show our love by amplifying the work of some of the creators who are 
 
 Fieldfusion is a free & online tool built to help Field Service professionals make faster, data-driven decisions and ensure the safety of their technicians by analysing the effect of COVID-19 in the region of operation. Although, Fieldfusion's primary aim is to help Field Service professionals, it is also freely available for public usage.
 
-
-
 Fieldfusion enables users to upload/enter and search for a specific postal code to help visualise the number of active COVID-19 cases in the region and analyse how severely coronavirus is affecting various geographic regions in the UK. The tool utilises publicly available data from Public Health England (PHE), the Office for National Statistics (ONS), and Ordnance Survey (OS). Fieldfusion lists the most severely affected regions by comparing the number of confirmed cases to the total population in specific areas.
+
+**Fieldfusion was built in <24 hours.**
 
 **Note**: Fieldfusion is currently only for use in UK and the accuracy of the data is limited to England.
  
@@ -33,7 +33,9 @@ Fieldfusion enables users to upload/enter and search for a specific postal code 
 
 ## 2. [Survive Together](https://survivetogether.org/) 🔗
 
-As a result of the lockdowns in certain countries, the citizens heavily rely on home deliveries for essential items. The Surive Together website helps ou discover open stores, services, & areas in which these servies are available. You can add your requirements under a particular store listed by a vendor & the service will appropriately be provided to you. 
+As a result of the lockdowns in certain countries, the citizens heavily rely on home deliveries for essential items. The Surive Together website helps ou discover open stores, services, & areas in which these servies are available. You can add your requirements under a particular store listed by a vendor & the service will appropriately be provided to you.
+
+**The entire survietogether.org was built a week using Hasura.**
 
 **Note**: survivetogether.org is currently only for use in Sri Lanka.
 
@@ -61,6 +63,8 @@ The code has been made open-source by the team for developers to use and draw in
 
 Urgent Hub is a web app built to aid safe COVID-19 screening by connecting patients and medical care providers. As of end of April Urgent Hubs support 2.5 million people between dental and eye care in states of Arkansas and Colorado. Urgent Hub was built in the short span of 6 days.
 
+**UrgentHub was brought to life with the help of Hasura in less than a week.**
+
 **Note**: Urgent Hub is currently available in Arkansas, Colorado (USA).
 
 
@@ -81,6 +85,8 @@ Urgent Hub is a web app built to aid safe COVID-19 screening by connecting patie
 
 
 Helpmate is a crowdsourced app that helps you list local stores that sell essentials as open including hawkers & small shops. The next time you go out shopping, help people find the store you shopped from by adding it on Helpmate. With Helpmate you can also become a volunter to help your neighbourhood. Elderly people & others, who can’t step out can call volunteers & seek support. Helpmate is doing its bit. Let's do ours with Helpmate. 💜
+
+**Helpmate was built in 12 days using Hasura.**
 
 **Note**: Helpmate is a hyper-local app for use in only a small region of India.
 
@@ -116,7 +122,7 @@ The developers at Leafycode were able to build & deploy the survivetogether.org 
 
 ### UrgentHub
 
-In a similar timeframe, UrgentHub was brought to life with the help of Hasura.
+In a similar timeframe, UrgentHub was brought to life with the help of Hasura in less than a week.
 
 "We depend heavily on Hasura. CRUD automation GraphQL gets us up and running really fast. Events and actions helped us model all of our backend logic in a clear and declarative way. The permissions model helped us restrict access to the different parts of the system in a simple way too."
 
