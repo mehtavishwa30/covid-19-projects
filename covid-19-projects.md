@@ -6,10 +6,9 @@ We want to show our love by amplifying the work of some of the creators who are 
 
 ## 1. [Urgent Hub](https://urgent-hub.com/) 🔗
 
-Urgent Hub is a web app built to aid safe COVID-19 screening by connecting patients and medical care providers. As of end of April Urgent Hubs support 2.5 million people between dental and eye care in states of Arkansas and Colorado. Urgent Hub was built in the short span of 6 days.
+Urgent Hub is a web app built to aid safe screenings for dental & eye care by connecting patients and medical care providers. 
 
-**Note**: Urgent Hub is currently available in Arkansas, Colorado (USA).
-
+**Note**: Urgent Hub is only available in the states of Arkansas & Colorado (USA). Currently, Urgent Hubs support 2.5 million people between dental and eye care in states of Arkansas and Colorado.
 
 ### Tech Stack 🥞
 
@@ -19,7 +18,6 @@ Urgent Hub is a web app built to aid safe COVID-19 screening by connecting patie
 In a similar timeframe, UrgentHub was brought to life with the help of Hasura in less than a week.
 
 "We depend heavily on Hasura. CRUD automation GraphQL gets us up and running really fast. Events and actions helped us model all of our backend logic in a clear and declarative way. The permissions model helped us restrict access to the different parts of the system in a simple way too."
-
 
 ### Team Urgent Hub 💪
 
@@ -36,8 +34,7 @@ Fieldfusion is a free & online tool built to help Field Service professionals ma
 
 Fieldfusion enables users to upload/enter and search for a specific postal code to help visualise the number of active COVID-19 cases in the region and analyse how severely coronavirus is affecting various geographic regions in the UK. The tool utilises publicly available data from Public Health England (PHE), the Office for National Statistics (ONS), and Ordnance Survey (OS). Fieldfusion lists the most severely affected regions by comparing the number of confirmed cases to the total population in specific areas.
 
-**Note**: Fieldfusion is currently only for use in UK and the accuracy of the data is limited to England.
- 
+**Note**: Fieldfusion is currently only for use in UK and the accuracy of the data is limited to England. Since going live on 20th March, Fieldfusion has gotten ~4,000 visitors and seen good organic and sponsored traction on social media including views from employees at Softcat PLC — one of the UK's largest software infrastructure providers, British Gas, Oracle, PwC and McLaren Group.
 
 ### Tech Stack 🥞
 
@@ -49,7 +46,6 @@ Fieldfusion founder Graham Sawell took the project from conception to live in <2
 "One of the great features of Hasura is the attention and thought that has gone into permission and role structures. Making use of the public role that hasura exposes, we were able to rapidly create extra tables to support the data, create the gql queries and simply make the data available to the front-end through websockets without concern.
 
 It's often hard as a developer to identify when you are truly separating concerns or dividing them. Hasura is the toolkit that we as developers need to allow us to focus what we do best, without worrying about technicalities being obfuscated."
-
 
 ### Team Fieldfusion 💪
 
@@ -66,8 +62,7 @@ It's often hard as a developer to identify when you are truly separating concern
 
 As a result of the lockdowns in certain countries, the citizens heavily rely on home deliveries for essential items. The Surive Together website helps ou discover open stores, services, & areas in which these servies are available. You can add your requirements under a particular store listed by a vendor & the service will appropriately be provided to you.
 
-**Note**: survivetogether.org is currently only for use in Sri Lanka.
-
+**Note**: survivetogether.org is currently only for use in Sri Lanka. They have gotten requests from over 800 people through ~40 contact persons across Sri Lanka. 
 
 ### Tech Stack 🥞
 
@@ -77,7 +72,6 @@ As a result of the lockdowns in certain countries, the citizens heavily rely on 
 Using Hasura, the developers at Leafycode were able to build & deploy the survivetogether.org website in the short span of a week.
 
 "We are using Hasura as the API for our system. Due to the time restrictions, we did not build any admin panel. Actually, we don't have to since the Hasura console provided everything we need to handle to project for the time being."
-
 
 ### Team Survive Together 💪
 
@@ -98,7 +92,7 @@ The code has been made open-source by the team for developers to use and draw in
 
 Helpmate is a crowdsourced app that helps you list local stores that sell essentials as open including hawkers & small shops. The next time you go out shopping, help people find the store you shopped from by adding it on Helpmate. With Helpmate you can also become a volunter to help your neighbourhood. Elderly people & others, who can’t step out can call volunteers & seek support. Helpmate is doing its bit. Let's do ours with Helpmate. 💜
 
-**Note**: Helpmate is a hyper-local app for use in only a small region of India.
+**Note**: Helpmate is a hyper-local app for use in India. Helpmate received around 200 users on the launch date (April 25) and has been onboarding 100 people everyday since.
 
 ### Tech Stack 🥞
 
