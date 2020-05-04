@@ -8,6 +8,8 @@ We want to show our love by amplifying the work of some of the creators who are 
 
 Fieldfusion is a free & online tool built to help Field Service professionals make faster, data-driven decisions and ensure the safety of their technicians by analysing the effect of COVID-19 in the region of operation. Although, Fieldfusion's primary aim is to help Field Service professionals, it is also freely available for public usage.
 
+
+
 Fieldfusion enables users to upload/enter and search for a specific postal code to help visualise the number of active COVID-19 cases in the region and analyse how severely coronavirus is affecting various geographic regions in the UK. The tool utilises publicly available data from Public Health England (PHE), the Office for National Statistics (ONS), and Ordnance Survey (OS). Fieldfusion lists the most severely affected regions by comparing the number of confirmed cases to the total population in specific areas.
 
 **Note**: Fieldfusion is currently only for use in UK and the accuracy of the data is limited to England.
@@ -130,4 +132,4 @@ ________________________________________________________________________________
 
 Let's celebrate the works of these creators and spread the word so that these solutions reach the people who need them and can inspire others who would want to build such solutions using Hasura! 
 
-If you are building projects with Hasura to extend help to the community, please let us know by tweeting to us at @[Hasura](https://twitter.com/HasuraHQ) or reaching us at `community@hasura.io`.
+If you are building projects with Hasura to extend help to the community, please let us know by tweeting to us at @[HasuraHQ](https://twitter.com/HasuraHQ) or reaching us at `community@hasura.io`.
